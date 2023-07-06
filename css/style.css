@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: blanchedalmond;
+}
+
+.slider {
+    margin: 0 auto;
+    max-width: 500px;
+    width: 80%;
+  }
+  .slider-img {
+    margin: 0 10px;
+  }
+  .slider-img img {
+    height: auto;
+    width: 100%;
+  }
+
+  .text {
+    text-align: center;
+    font-family: 'Chokokutai', cursive;
+  }
